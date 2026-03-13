@@ -1,0 +1,27 @@
+# Git
+.git
+.gitignore
+
+# Dataset
+dataset/
+
+# Models
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
